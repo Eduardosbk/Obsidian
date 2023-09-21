@@ -30,7 +30,7 @@ O desenvolvimento [[Back-End]] é a parte de um aplicativo ou sistema de softwar
 
 **[[Cache]]:**
 
-- O [[Cache]] é usado para armazenar temporariamente dados frequentemente acessados, reduzindo assim a carga nos servidores e melhorando o desempenho. Tecnologias como [[Redis]] e Memcached são comuns para caching.
+- O [[Cache]] é usado para armazenar temporariamente dados frequentemente acessados, reduzindo assim a carga nos servidores e melhorando o desempenho. Tecnologias como [[Redis]] e Memcached são comuns para `caching`.
 
 **Escalabilidade:**
 

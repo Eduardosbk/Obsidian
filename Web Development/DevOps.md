@@ -8,11 +8,11 @@
 
 - A automação é um pilar central do [[DevOps]]. Isso inclui a automação de tarefas de desenvolvimento, teste, implantação, monitoramento e provisionamento de infraestrutura. A automação reduz erros, acelera processos e aumenta a consistência.
 
-**Integração Contínua (CI):**
+**Integração Contínua ([[CI & CD]]):**
 
 - CI envolve a integração automática e contínua de código-fonte em um repositório compartilhado. Os testes automatizados são executados sempre que o código é integrado, permitindo a detecção precoce de problemas.
 
-**Entrega Contínua (CD):**
+**Entrega Contínua ([[CI & CD]]):**
 
 - CD vai além da CI, envolvendo a entrega automatizada de código pronto para produção em ambientes de teste ou produção. Isso permite entregas frequentes e confiáveis de software.
 

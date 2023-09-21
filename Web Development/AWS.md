@@ -36,7 +36,7 @@ Amazon Web Services ([[AWS]]) é uma plataforma de computação em nuvem da Amaz
 
 **Casos de Uso Comuns:**
 
-- A [[AWS]] é usada em uma ampla variedade de casos de uso, incluindo hospedagem de sites, aplicativos móveis, análise de [[Bid Data]], [[Machine Learning]], [[IoT]], recuperação de desastres, e-commerce, entre outros.
+- A [[AWS]] é usada em uma ampla variedade de casos de uso, incluindo hospedagem de sites, aplicativos móveis, análise de [[Big Data]], [[Machine Learning]], [[IoT]], recuperação de desastres, e-commerce, entre outros.
 
 **Migração para a Nuvem:**
 

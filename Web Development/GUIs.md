@@ -6,7 +6,7 @@ Aqui estão alguns dos principais elementos e características das [[GUIs]]:
 
 **Ícones:** Os ícones são representações gráficas de programas, pastas, arquivos ou ações. Eles permitem que os usuários identifiquem facilmente os itens e acessem funcionalidades.
 
-**Menus:** Menus dropdown ou de barra de ferramentas contêm opções organizadas em categorias para que os usuários possam acessar funcionalidades específicas.
+**Menus:** Menus `dropdown` ou de barra de ferramentas contêm opções organizadas em categorias para que os usuários possam acessar funcionalidades específicas.
 
 **Botões:** Botões permitem que os usuários ativem ações ou comandos específicos com um clique.
 
@@ -16,7 +16,7 @@ Aqui estão alguns dos principais elementos e características das [[GUIs]]:
 
 **Gráficos e Imagens:** As [[GUIs]] podem exibir imagens, gráficos e elementos visuais para melhorar a [[UX]] e transmitir informações de forma mais eficaz.
 
-**Feedback Visual:** As [[GUIs]] fornecem feedback visual imediato para ações do usuário, como alterar o cursor do mouse, alterar a cor de um botão quando clicado ou exibir uma barra de progresso durante operações longas.
+**Feedback Visual:** As [[GUIs]] fornecem `feedback` visual imediato para ações do usuário, como alterar o cursor do mouse, alterar a cor de um botão quando clicado ou exibir uma barra de progresso durante operações longas.
 
 **Arrastar e Soltar:** Os usuários podem arrastar itens (por exemplo, arquivos) e soltá-los em locais específicos para executar ações, como copiar ou mover.
 
@@ -26,6 +26,6 @@ Aqui estão alguns dos principais elementos e características das [[GUIs]]:
 
 **Acessibilidade:** As [[GUIs]] geralmente oferecem recursos de acessibilidade, como leitores de tela, para tornar o software utilizável por pessoas com deficiências visuais ou motoras.
 
-GUIs são amplamente utilizadas em sistemas operacionais modernos, aplicativos de desktop, aplicativos móveis e sites. Elas tornam a interação com a tecnologia mais intuitiva e acessível para uma ampla gama de usuários, independentemente do nível de experiência técnica.
+[[GUIs]] são amplamente utilizadas em sistemas operacionais modernos, aplicativos de desktop, aplicativos móveis e sites. Elas tornam a interação com a tecnologia mais intuitiva e acessível para uma ampla gama de usuários, independentemente do nível de experiência técnica. [[GUIs]] estão em tudo e não só no [[Desenvolvimento Web]].
 
 

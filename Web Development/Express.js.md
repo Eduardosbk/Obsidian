@@ -38,18 +38,18 @@
 
 **Comunidade Ativa:**
 
-`- Express tem uma comunidade de desenvolvedores ativa e uma ampla variedade de recursos, tutoriais e plugins disponíveis.`
+-  Express tem uma comunidade de desenvolvedores ativa e uma ampla variedade de recursos, tutoriais e plugins disponíveis.
 
 **Aplicações de Múltiplas Rotas:**
 
-`- Você pode criar aplicativos Express com várias rotas e recursos, tornando-o adequado para desenvolvimento de aplicativos complexos e APIs RESTful.`
+- Você pode criar aplicativos Express com várias rotas e recursos, tornando-o adequado para desenvolvimento de aplicativos complexos e [[APIs]] RESTful.
 
 **Escalabilidade:**
 
-`- Express é escalável e pode ser usado em projetos de pequeno a grande porte, desde aplicativos simples até aplicativos corporativos complexos.`
+-  Express é escalável e pode ser usado em projetos de pequeno a grande porte, desde aplicativos simples até aplicativos corporativos complexos.
 
 **Open Source:**
 
-`- O Express é de código aberto e licenciado sob a Licença MIT, o que significa que é gratuito para uso e personalização.`
+-  O Express é de código aberto e licenciado sob a Licença MIT, o que significa que é gratuito para uso e personalização.
 
-O [[Express.js]] é uma escolha popular para o desenvolvimento de aplicativos web [[Node.js]] devido à sua simplicidade, flexibilidade e eficiência. É amplamente adotado em startups, empresas e projetos de código aberto devido à sua abordagem minimalista e extensibilidade. Se você deseja desenvolver aplicativos web com [[Node.js]], o Express é uma excelente escolha para começar.
+O [[Express.js]] é uma escolha popular para o [[Desenvolvimento Web]] de aplicativos web [[Node.js]] devido à sua simplicidade, flexibilidade e eficiência. É amplamente adotado em startups, empresas e projetos de código aberto devido à sua abordagem minimalista e extensibilidade. Se você deseja desenvolver aplicativos web com [[Node.js]], o Express é uma excelente escolha para começar.

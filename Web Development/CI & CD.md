@@ -58,6 +58,6 @@
 
 **Ferramentas e Plataformas:**
 
- `- Há uma variedade de ferramentas e plataformas disponíveis para implementar práticas de CI/CD, incluindo Jenkins, Travis CI, CircleCI, GitLab CI/CD, AWS CodePipeline, Azure DevOps, entre outras.`
+ - Há uma variedade de ferramentas e plataformas disponíveis para implementar práticas de [[CI & CD]], incluindo Jenkins, Travis CI, [[CircleCI]], [[GitLab]] [[CI & CD]], AWS CodePipeline, Azure [[DevOps]], entre outras.
 
 O [[CI & CD]] é uma abordagem fundamental para o desenvolvimento de software moderno, permitindo que as equipes de desenvolvimento entreguem software de alta qualidade mais rapidamente. A automação, os testes contínuos e os [[Pipelines]] de implantação eficientes são elementos essenciais do [[CI & CD]], e a implementação bem-sucedida dessas práticas pode melhorar significativamente a eficiência e a confiabilidade do ciclo de desenvolvimento de software.

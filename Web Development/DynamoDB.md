@@ -38,22 +38,22 @@ Amazon [[DynamoDB]] é um serviço de banco de dados [[NoSQL]] totalmente gerenc
 
 **Modelagem de Dados Avançada:**
 
- `- Além de tabelas simples, DynamoDB permite a criação de índices globais secundários e locais para consultas avançadas e consultas complexas.`
+ -  Além de tabelas simples, [[DynamoDB]] permite a criação de índices globais secundários e locais para consultas avançadas e consultas complexas.
 
 **Monitoramento e Otimização:**
 
- `- O AWS CloudWatch e o AWS X-Ray podem ser usados para monitorar o desempenho do DynamoDB e otimizar consultas.`
+ -  O [[AWS]] CloudWatch e o [[AWS]] X-Ray podem ser usados para monitorar o desempenho do [[DynamoDB]] e otimizar consultas.
 
 **Backup e Restauração:**
 
- `- DynamoDB oferece recursos de backup e restauração para proteger seus dados contra perda acidental.`
+ -  [[DynamoDB]] oferece recursos de backup e restauração para proteger seus dados contra perda acidental.
 
 **Facilidade de Uso:**
 
- `- DynamoDB é fácil de começar a usar, com uma API simples e documentação abrangente.`
+ -  [[DynamoDB]] é fácil de começar a usar, com uma [[APIs]] simples e documentação abrangente.
 
 **Planos de Preços:**
 
- `- DynamoDB tem planos de preços flexíveis com opções de pagamento sob demanda e provisionamento de capacidade.`
+ -  [[DynamoDB]] tem planos de preços flexíveis com opções de pagamento sob demanda e provisionamento de capacidade.
 
 Amazon [[DynamoDB]] é amplamente utilizado em aplicativos da web, móveis e de Internet das Coisas ([[IoT]]) para armazenar e recuperar dados de maneira escalável e confiável. Sua capacidade de dimensionamento automático, latência baixa e integração com outros serviços da [[AWS]] o tornam uma escolha popular para uma ampla variedade de casos de uso.

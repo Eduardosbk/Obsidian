@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3327ca58de1c5fbd",
+        "id": "a65516637da4af73",
         "type": "tabs",
         "children": [
           {
-            "id": "32739e1f6c5aa301",
+            "id": "687d5dc584f802af",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/ReactJS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/ReactJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/ReactJS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/ReactJS.md"
+              }
             }
           }
         ],
@@ -164,34 +172,35 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c34b13dd6fb06e07",
+  "active": "687d5dc584f802af",
   "lastOpenFiles": [
-    "Web Development/Terraform.md",
-    "Web Development/TDD.md",
-    "Web Development/SOLID.md",
-    "Web Development/Singleton.md",
-    "Web Development/SEO.md",
-    "Web Development/Scrum.md",
-    "Web Development/Puppet.md",
-    "Web Development/Prometheus.md",
-    "Web Development/Observer.md",
-    "Web Development/Microsserviços.md",
-    "Web Development/Method.md",
-    "Web Development/Materialize.md",
-    "Web Development/Kanban.md",
+    "Styled-components.md",
+    "Web Development/ReactJS.md",
+    "Web Development/yarn.md",
+    "Web Development/Desenvolvimento Web.md",
+    "Web Development/PWA.md",
+    "Django.md",
+    "Web Development/UX.md",
+    "Web Development/Vue.js.md",
+    "Web Development/Virtual DOM.md",
+    "Web Development/Versionamento de Código.md",
+    "Web Development/SQL.md",
+    "Análise de Dados/Inteligência Artificial.md",
+    "Web Development/Integração Contínua.md",
+    "Web Development/Implantação e Hospedagem.md",
+    "Web Development/HTTP.md",
+    "Web Development/Heroku.md",
+    "Web Development/Gulp.md",
+    "Web Development/GUIs.md",
+    "Web Development/GraphQL.md",
     "Web Development/Grafana.md",
-    "Web Development/Foundation.md",
-    "Web Development/Factory.md",
-    "Web Development/DevTools.md",
-    "Web Development/Decorator.md",
-    "Web Development/Chef.md",
-    "Web Development/Arquitetura Hexagonal.md",
-    "Web Development/Ansible.md",
-    "Web Development/SSR (Server-Side Rendering).md",
-    "Web Development/Testes.md",
-    "Web Development/Tailwind.md",
-    "Web Development/Servidores Web.md",
+    "Web Development/Go.md",
     "Web Development/GitLab.md",
+    "Web Development/GitHub.md",
+    "Web Development/Git.md",
+    "Web Development/Front-End.md",
+    "Web Development/Foundation.md",
+    "Análise de Dados",
     "Mobile Development",
     "CI",
     "Mind map web development.canvas",

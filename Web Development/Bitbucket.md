@@ -26,7 +26,7 @@ O [[Bitbucket]] é uma plataforma de hospedagem de código baseada em [[Git]] e 
 
 **Gerenciar Issues e Pull Requests:**
 
-- O [[Bitbucket]] oferece recursos para gerenciar problemas (issues) e solicitações de pull (pull requests). Você pode criar, atribuir e acompanhar problemas e revisar as alterações propostas por outros membros da equipe.
+- O [[Bitbucket]] oferece recursos para gerenciar problemas (`issues`) e solicitações de pull (`pull requests`). Você pode criar, atribuir e acompanhar problemas e revisar as alterações propostas por outros membros da equipe.
 
 **Configurar Integração Contínua:**
 
@@ -34,11 +34,11 @@ O [[Bitbucket]] é uma plataforma de hospedagem de código baseada em [[Git]] e 
 
 **Colaboração em Equipe:**
 
-- Você pode convidar outros membros da equipe para colaborar no seu projeto [[Bitbucket]]. Eles podem fazer commits, abrir pull requests e revisar código.
+- Você pode convidar outros membros da equipe para colaborar no seu projeto [[Bitbucket]]. Eles podem fazer `commits`, abrir `pull requests` e revisar código.
 
 **Branches e Merge:**
 
-- Use branches para trabalhar em novas funcionalidades ou correções separadamente. Quando estiver pronto, você pode criar uma solicitação de pull para mesclar suas alterações na branch principal.
+- Use `branches` para trabalhar em novas funcionalidades ou correções separadamente. Quando estiver pronto, você pode criar uma solicitação de `pull` para mesclar suas alterações na `branch` principal.
 
 **Documentação e Wiki:**
 
@@ -46,9 +46,9 @@ O [[Bitbucket]] é uma plataforma de hospedagem de código baseada em [[Git]] e 
 
 **Acompanhamento de Atividades:**
 
-- O [[Bitbucket]] rastreia todas as atividades relacionadas ao seu projeto, incluindo commits, pull requests e comentários.
+- O [[Bitbucket]] rastreia todas as atividades relacionadas ao seu projeto, incluindo `commits`, `pull requests` e comentários.
 
-Estes são os passos básicos para começar a usar o [[Bitbucket]]. À medida que você se familiariza com a plataforma, pode explorar recursos avançados, como integrações com ferramentas de desenvolvimento, configuração de pipelines de [[CI & CD]] e muito mais. Certifique-se de consultar a documentação oficial do Bitbucket ([https://support.atlassian.com/bitbucket-cloud/docs/](https://support.atlassian.com/bitbucket-cloud/docs/)) para obter informações detalhadas e tutoriais específicos.
+Estes são os passos básicos para começar a usar o [[Bitbucket]]. À medida que você se familiariza com a plataforma, pode explorar recursos avançados, como integrações com ferramentas de desenvolvimento, configuração de [[Pipelines]] de [[CI & CD]] e muito mais. Certifique-se de consultar a documentação oficial do [[Bitbucket]] ([https://support.atlassian.com/bitbucket-cloud/docs/](https://support.atlassian.com/bitbucket-cloud/docs/)) para obter informações detalhadas e tutoriais específicos.
 
 [[GitHub]] e [[Bitbucket]] são duas das plataformas de hospedagem de código mais populares, ambas baseadas em [[Git]]. Embora compartilhem muitas semelhanças, também têm algumas diferenças significativas que podem influenciar a escolha entre uma ou outra, dependendo das necessidades do projeto ou equipe. Aqui estão algumas das principais diferenças entre [[GitHub]] e [[Bitbucket]]:
 
@@ -66,12 +66,12 @@ Estes são os passos básicos para começar a usar o [[Bitbucket]]. À medida qu
 - [[Bitbucket]]:
     - Além do [[Git]], o [[Bitbucket]] oferece suporte para repositórios [[Mercurial]], o que pode ser útil se você ou sua equipe estiverem usando [[Mercurial]].
 
-**Integração Contínua e Implantação Contínua ([[CI/CD]]):**
+**Integração Contínua e Implantação Contínua ([[CI & CD]]):**
 
 - [[GitHub]]:
-    - O [[GitHub]] Actions é uma ferramenta de [[CI/CD]] nativa integrada ao [[GitHub]]. Você pode criar pipelines de integração e entrega contínua diretamente no [[GitHub]].
+    - O [[GitHub]] Actions é uma ferramenta de [[CI & CD]] nativa integrada ao [[GitHub]]. Você pode criar pipelines de integração e entrega contínua diretamente no [[GitHub]].
 - [[Bitbucket]]:
-    - O [[Bitbucket]] [[Pipelines]] é uma ferramenta de [[CI/CD]] nativa integrada ao [[Bitbucket]]. Ele oferece recursos semelhantes aos do [[GitHub]] Actions.
+    - O [[Bitbucket]] [[Pipelines]] é uma ferramenta de [[CI & CD]] nativa integrada ao [[Bitbucket]]. Ele oferece recursos semelhantes aos do [[GitHub]] Actions.
 
 **Acesso a Recursos Avançados:**
 
