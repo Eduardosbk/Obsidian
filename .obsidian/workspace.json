@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4b6b1603ed0e9c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "3327ca58de1c5fbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32739e1f6c5aa301",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e659668b80adcce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab3338c76456d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34b13dd6fb06e07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b8d50fb80f55390",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f92ff459bf88f35e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b33a4166233364a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c4e1d7ef16c34e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "032ae4c50d5d5bf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "748c8a329eea79b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "284fb0b9af3f01ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d4eb71e7243106f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "248f4654a7e9673e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "c577c8ae1eae3961",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "copilot:Copilot Chat": false
+    }
+  },
+  "active": "32739e1f6c5aa301",
+  "lastOpenFiles": [
+    "Web Development/SSR (Server-Side Rendering).md",
+    "Web Development/Testes.md",
+    "Web Development/Tailwind.md",
+    "Web Development/Servidores Web.md",
+    "Web Development/GitLab.md",
+    "Web Development/GitHub.md",
+    "Web Development/Git.md",
+    "Web Development/Front-End.md",
+    "Web Development/Desenvolvimento Web.md",
+    "Web Development/Desenvolvimento Responsivo.md",
+    "DevTools.md",
+    "SEO.md",
+    "Materialize.md",
+    "Foundation.md",
+    "Web Development/Desenvolvimento Avançado.md",
+    "Puppet.md",
+    "Chef.md",
+    "TDD.md",
+    "Decorator.md",
+    "Observer.md",
+    "Method.md",
+    "Factory.md",
+    "Singleton.md",
+    "SOLID.md",
+    "Arquitetura Hexagonal.md",
+    "Microsserviços.md",
+    "Mobile Development",
+    "CI",
+    "Mind map web development.canvas",
+    "Web Development",
+    "Books",
+    "Courses",
+    "Files",
+    "Templates",
+    "Daily Notes",
+    "Excalidraw"
+  ]
+}

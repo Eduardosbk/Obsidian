@@ -1,0 +1,16 @@
+- Yung city - This on is for you
+- Christopher Lennertz - I Can Do Anything / Finale
+- Nathan Evans - Wellerman
+- Engelbert Humperdinck - A Man Without Love
+- Engelbert Humperdinck - A Man Without Love
+- Grupo La Cumbia - Cumbia Buena
+- Ludovico Einaudi - Experience
+- Abba - Gimme Gimme Gimme (Slowed)
+- Foster The People - Pumped Up Kicks
+- The Irrepressibles - In This Shirt
+- John Newman - Love Me Again
+- Sweater Weather (Slowed/Reverb)
+- Kina - Can We Kiss Forever
+- Mr. Kitty - After Dark
+- As It Was – Prep
+

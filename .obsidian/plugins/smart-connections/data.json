@@ -1,0 +1,29 @@
+{
+  "api_key": "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",
+  "chat_open": true,
+  "file_exclusions": "",
+  "folder_exclusions": "",
+  "header_exclusions": "",
+  "path_only": "",
+  "show_full_path": false,
+  "expanded_view": true,
+  "group_nearest_by_file": false,
+  "language": "en",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "skip_sections": false,
+  "smart_chat_model": "gpt-3.5-turbo-16k",
+  "view_open": true,
+  "version": "1.6.34",
+  "failed_files": [
+    "",
+    "Daily Notes/15-09-2023.md",
+    "HTML.md",
+    "Mind map web development.canvas",
+    "Songs for stories.md",
+    "Templates/Daily Notes Template.md",
+    "Think and Grow Rich - Napoleon Hill.md"
+  ],
+  "license_key": "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"
+}
