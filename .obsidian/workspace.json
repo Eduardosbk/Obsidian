@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a65516637da4af73",
+        "id": "d62a53fb1ab2b5b4",
         "type": "tabs",
         "children": [
           {
-            "id": "687d5dc584f802af",
+            "id": "0571bbd08dc67e23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/ReactJS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/ReactJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/ReactJS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/ReactJS.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,10 +164,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "687d5dc584f802af",
+  "active": "0571bbd08dc67e23",
   "lastOpenFiles": [
-    "Styled-components.md",
     "Web Development/ReactJS.md",
+    "Flux.md",
+    "Axios.md",
+    "SASS.md",
+    "MobX.md",
+    "XML.md",
+    "Styled-components.md",
     "Web Development/yarn.md",
     "Web Development/Desenvolvimento Web.md",
     "Web Development/PWA.md",
@@ -195,11 +192,6 @@
     "Web Development/GraphQL.md",
     "Web Development/Grafana.md",
     "Web Development/Go.md",
-    "Web Development/GitLab.md",
-    "Web Development/GitHub.md",
-    "Web Development/Git.md",
-    "Web Development/Front-End.md",
-    "Web Development/Foundation.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
