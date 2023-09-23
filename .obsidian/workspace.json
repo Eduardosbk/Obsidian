@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Tailwind.md",
+                "file": "Web Development/IoT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Tailwind.md",
+                "file": "Web Development/IoT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Tailwind.md",
+                "file": "Web Development/IoT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Tailwind.md"
+                "file": "Web Development/IoT.md"
               }
             }
           }
@@ -174,32 +174,32 @@
   },
   "active": "0571bbd08dc67e23",
   "lastOpenFiles": [
-    "Web Development/Microsserviços.md",
-    "Web Development/ReactJS.md",
-    "Web Development/Rails.md",
-    "Web Development/Python.md",
-    "Web Development/PWA.md",
-    "Web Development/Puppet.md",
-    "Web Development/Prometheus.md",
-    "Web Development/Projetos Pessoais.md",
-    "Web Development/PostgreSQL.md",
-    "Web Development/Popper.js.md",
-    "Web Development/Pipelines.md",
-    "Web Development/PHP.md",
-    "Web Development/Perl.md",
-    "Web Development/Observer.md",
-    "Web Development/OpenID Connect.md",
-    "Web Development/OAuth.md",
-    "Web Development/npm.md",
-    "Web Development/NoSQL.md",
-    "Web Development/Node.js.md",
-    "Web Development/Nginx.md",
-    "Web Development/Netlify.md",
-    "Web Development/MySQL.md",
-    "Web Development/MongoDB.md",
-    "Web Development/Cache.md",
-    "Web Development/C-sharp.md",
+    "Web Development/HTTP.md",
+    "Web Development/IoT.md",
+    "Web Development/HTML.md",
+    "Web Development/Heroku.md",
+    "Web Development/GUIs.md",
+    "Web Development/Gulp.md",
+    "Web Development/Go.md",
+    "Web Development/Foundation.md",
+    "Web Development/Front-End.md",
+    "Web Development/GitHub.md",
+    "Web Development/Git.md",
+    "Web Development/GitLab.md",
+    "Web Development/Grafana.md",
+    "Elasticsearch.md",
+    "Web Development/GraphQL.md",
     "Web Development/Back-End.md",
+    "Web Development/AWS.md",
+    "Web Development/Autenticação e Autorização.md",
+    "Web Development/Arquitetura Hexagonal.md",
+    "Web Development/Aprendizado Contínuo.md",
+    "Web Development/APIs.md",
+    "Web Development/Apache.md",
+    "Web Development/Ansible.md",
+    "Web Development/Angular.md",
+    "SPA.md",
+    "TypeScript.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
