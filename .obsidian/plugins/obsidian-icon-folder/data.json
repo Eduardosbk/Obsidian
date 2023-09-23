@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandGolang",
-      "TiChartInfographic",
-      "LiGitlab",
-      "LiGithub",
-      "TiCodeCircle"
+      "RiAliensFill",
+      "TiPoo",
+      "RiPictureInPictureExitLine",
+      "RiFilePaperLine",
+      "TiBrandPhp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,13 @@
   "Web Development/DevOps.md": "TiChartInfographic",
   "Web Development/Go.md": "TiBrandGolang",
   "Análise de Dados/Análise de Dados.md": "RiDatabaseLine",
-  "Web Development/PWA.md": "RiDeviceFill"
+  "Web Development/PWA.md": "RiDeviceFill",
+  "Web Development/NoSQL.md": "TiFileDatabase",
+  "Web Development/OAuth.md": "LiUsers",
+  "Web Development/Observer.md": "TiMoodLookLeft",
+  "Web Development/Perl.md": "RiFilePaperLine",
+  "Web Development/PHP.md": "TiBrandPhp",
+  "Web Development/Pipelines.md": "RiPictureInPictureExitLine",
+  "Web Development/Popper.js.md": "TiPoo",
+  "Web Development/Prometheus.md": "RiAliensFill"
 }

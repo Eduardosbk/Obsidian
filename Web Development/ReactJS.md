@@ -6,7 +6,7 @@
 
 **Reatividade**: O [[ReactJS]] é altamente reativo. Quando o estado de um componente é alterado, ele reage automaticamente, re-renderizando apenas as partes da interface do usuário afetadas pelas mudanças.
 
-**[[JSX]]**: [[ReactJS]] utiliza [[JSX]] ([[JavaScript]] XML), uma extensão da linguagem [[JavaScript]] que permite escrever código [[HTML]] diretamente em seu código [[JavaScript]]. Isso torna a criação de componentes [[ReactJS]] mais intuitiva e fácil de entender.
+**[[JSX]]**: [[ReactJS]] utiliza [[JSX]] ([[JavaScript]] [[XML]]), uma extensão da linguagem [[JavaScript]] que permite escrever código [[HTML]] diretamente em seu código [[JavaScript]]. Isso torna a criação de componentes [[ReactJS]] mais intuitiva e fácil de entender.
 
 **Unidirecionalidade de Dados**: O [[ReactJS]] segue o princípio de fluxo unidirecional de dados. Os dados fluem de pais para filhos, o que torna o controle de estado mais previsível e facilita a depuração.
 

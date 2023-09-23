@@ -11,8 +11,12 @@
             "id": "0571bbd08dc67e23",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/Tailwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/Tailwind.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/Tailwind.md"
+              }
             }
           }
         ],
@@ -166,32 +174,32 @@
   },
   "active": "0571bbd08dc67e23",
   "lastOpenFiles": [
+    "Web Development/Microsserviços.md",
     "Web Development/ReactJS.md",
-    "Flux.md",
-    "Axios.md",
-    "SASS.md",
-    "MobX.md",
-    "XML.md",
-    "Styled-components.md",
-    "Web Development/yarn.md",
-    "Web Development/Desenvolvimento Web.md",
+    "Web Development/Rails.md",
+    "Web Development/Python.md",
     "Web Development/PWA.md",
-    "Django.md",
-    "Web Development/UX.md",
-    "Web Development/Vue.js.md",
-    "Web Development/Virtual DOM.md",
-    "Web Development/Versionamento de Código.md",
-    "Web Development/SQL.md",
-    "Análise de Dados/Inteligência Artificial.md",
-    "Web Development/Integração Contínua.md",
-    "Web Development/Implantação e Hospedagem.md",
-    "Web Development/HTTP.md",
-    "Web Development/Heroku.md",
-    "Web Development/Gulp.md",
-    "Web Development/GUIs.md",
-    "Web Development/GraphQL.md",
-    "Web Development/Grafana.md",
-    "Web Development/Go.md",
+    "Web Development/Puppet.md",
+    "Web Development/Prometheus.md",
+    "Web Development/Projetos Pessoais.md",
+    "Web Development/PostgreSQL.md",
+    "Web Development/Popper.js.md",
+    "Web Development/Pipelines.md",
+    "Web Development/PHP.md",
+    "Web Development/Perl.md",
+    "Web Development/Observer.md",
+    "Web Development/OpenID Connect.md",
+    "Web Development/OAuth.md",
+    "Web Development/npm.md",
+    "Web Development/NoSQL.md",
+    "Web Development/Node.js.md",
+    "Web Development/Nginx.md",
+    "Web Development/Netlify.md",
+    "Web Development/MySQL.md",
+    "Web Development/MongoDB.md",
+    "Web Development/Cache.md",
+    "Web Development/C-sharp.md",
+    "Web Development/Back-End.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",

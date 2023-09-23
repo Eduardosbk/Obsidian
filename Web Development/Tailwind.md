@@ -21,7 +21,7 @@ O [[Tailwind]] [[CSS]] é um framework de [[CSS]] altamente personalizável e de
 
 **JIT (Just-in-Time) Mode:**
 
-- O JIT mode é uma funcionalidade que compila apenas as classes [[CSS]] que são usadas em seu projeto, reduzindo significativamente o tamanho do arquivo [[CSS]] final.
+- O JIT `mode` é uma funcionalidade que compila apenas as classes [[CSS]] que são usadas em seu projeto, reduzindo significativamente o tamanho do arquivo [[CSS]] final.
 
 **Configuração Personalizada:**
 
@@ -35,7 +35,7 @@ O [[Tailwind]] [[CSS]] é um framework de [[CSS]] altamente personalizável e de
 
 - Você pode integrar facilmente [[JavaScript]] em seu projeto [[Tailwind]] [[CSS]] para adicionar interatividade a elementos da interface do usuário.
 
-**Comunidade Ativa:** - O [[Tailwind]] [[CSS]] tem uma comunidade ativa que compartilha recursos, plugins e projetos para facilitar o desenvolvimento e a personalização.
+**Comunidade Ativa:**  O [[Tailwind]] [[CSS]] tem uma comunidade ativa que compartilha recursos, plugins e projetos para facilitar o desenvolvimento e a personalização.
 
 **Documentação:** - A documentação oficial do [[Tailwind]] [[CSS]] é completa e oferece exemplos detalhados de uso, o que é uma ótima fonte para aprender e referenciar.
 
