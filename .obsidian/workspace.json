@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d62a53fb1ab2b5b4",
+        "id": "b0d4379fba4b17d3",
         "type": "tabs",
         "children": [
           {
-            "id": "0571bbd08dc67e23",
+            "id": "ebbcb03cca56ed59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Java.md",
+                "file": "Web Development/YAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Java.md",
+                "file": "Web Development/YAML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Java.md"
+                "file": "Web Development/YAML.md"
               }
             }
           }
@@ -172,8 +168,27 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "0571bbd08dc67e23",
+  "active": "c34b13dd6fb06e07",
   "lastOpenFiles": [
+    "Web Development/Axios.md",
+    "Web Development/Decorator.md",
+    "Web Development/CSS.md",
+    "Web Development/cross-site scripting (XSS).md",
+    "Web Development/Cookie.md",
+    "Web Development/Computação.md",
+    "Web Development/CLI.md",
+    "Web Development/CircleCI.md",
+    "Web Development/CI & CD.md",
+    "Web Development/Chef.md",
+    "Web Development/Cassandra.md",
+    "Web Development/Cache.md",
+    "Web Development/NextJS.md",
+    "Web Development/C-sharp.md",
+    "Web Development/Bootstrap.md",
+    "Web Development/Bitbucket.md",
+    "Web Development/Bibliotecas e Frameworks.md",
+    "Web Development/Banco de Dados.md",
+    "Web Development/Java.md",
     "Web Development/IoT.md",
     "Web Development/HTTP.md",
     "Web Development/HTML.md",
@@ -181,25 +196,6 @@
     "Web Development/GUIs.md",
     "Web Development/Gulp.md",
     "Web Development/Go.md",
-    "Web Development/Foundation.md",
-    "Web Development/Front-End.md",
-    "Web Development/GitHub.md",
-    "Web Development/Git.md",
-    "Web Development/GitLab.md",
-    "Web Development/Grafana.md",
-    "Elasticsearch.md",
-    "Web Development/GraphQL.md",
-    "Web Development/Back-End.md",
-    "Web Development/AWS.md",
-    "Web Development/Autenticação e Autorização.md",
-    "Web Development/Arquitetura Hexagonal.md",
-    "Web Development/Aprendizado Contínuo.md",
-    "Web Development/APIs.md",
-    "Web Development/Apache.md",
-    "Web Development/Ansible.md",
-    "Web Development/Angular.md",
-    "SPA.md",
-    "TypeScript.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",

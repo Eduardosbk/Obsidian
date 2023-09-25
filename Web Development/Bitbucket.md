@@ -14,23 +14,23 @@ O [[Bitbucket]] é uma plataforma de hospedagem de código baseada em [[Git]] e 
 
 **Adicionar Arquivos e Fazer Commits:**
 
-- Adicione os arquivos do seu projeto ao repositório [[Git]] local e faça commits para registrar suas alterações. Use os comandos `git add` e `git commit` para isso.
+- Adicione os arquivos do seu projeto ao repositório [[Git]] local e faça `commits` para registrar suas alterações. Use os comandos `git add` e `git commit` para isso.
 
 **Conectar seu Repositório Local ao Bitbucket:**
 
-- Após criar um repositório [[Bitbucket]] e fazer commits locais, você pode conectar seu repositório local ao [[Bitbucket]] usando o comando `git remote add origin <URL-do-seu-repositório-Bitbucket>`.
+- Após criar um repositório [[Bitbucket]] e fazer `commits` locais, você pode conectar seu repositório local ao [[Bitbucket]] usando o comando `git remote add origin <URL-do-seu-repositório-Bitbucket>`.
 
 **Enviar Commits para o Bitbucket:**
 
-- Use o comando `git push -u origin master` (ou substitua `master` pelo nome da branch que você deseja enviar) para enviar seus commits para o [[Bitbucket]].
+- Use o comando `git push -u origin master` (ou substitua `master` pelo nome da `branch` que você deseja enviar) para enviar seus `commits` para o [[Bitbucket]].
 
 **Gerenciar Issues e Pull Requests:**
 
-- O [[Bitbucket]] oferece recursos para gerenciar problemas (`issues`) e solicitações de pull (`pull requests`). Você pode criar, atribuir e acompanhar problemas e revisar as alterações propostas por outros membros da equipe.
+- O [[Bitbucket]] oferece recursos para gerenciar problemas (`issues`) e solicitações de `pull` (`pull requests`). Você pode criar, atribuir e acompanhar problemas e revisar as alterações propostas por outros membros da equipe.
 
 **Configurar Integração Contínua:**
 
-- O [[Bitbucket]] oferece integração contínua com várias ferramentas, como [[Jenkins]], [[Bamboo]] e [[Bitbucket]] [[Pipelines]]. Você pode configurar essas ferramentas para automatizar builds e testes do seu projeto.
+- O [[Bitbucket]] oferece integração contínua com várias ferramentas, como [[Jenkins]], [[Bamboo]] e [[Bitbucket]] [[Pipelines]]. Você pode configurar essas ferramentas para automatizar `builds` e testes do seu projeto.
 
 **Colaboração em Equipe:**
 
