@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b0d4379fba4b17d3",
+        "id": "6edf40e1be5686ba",
         "type": "tabs",
         "children": [
           {
-            "id": "ebbcb03cca56ed59",
+            "id": "1450b9bad04bf82d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -154,17 +154,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-day-planner:Week plan": false,
       "obsidian-projects:Open projects": false,
-      "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ebbcb03cca56ed59",
+  "active": "1450b9bad04bf82d",
   "lastOpenFiles": [
     "Web Development/Ansible.md",
     "Web Development/Tokens.md",
