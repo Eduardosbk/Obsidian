@@ -11,7 +11,7 @@
             "id": "ebbcb03cca56ed59",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/YAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/YAML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/YAML.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,8 +164,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c34b13dd6fb06e07",
+  "active": "ebbcb03cca56ed59",
   "lastOpenFiles": [
+    "Web Development/Ansible.md",
+    "Web Development/Tokens.md",
+    "Web Development/Desenvolvimento Web.md",
+    "Web Development/Desenvolvimento Responsivo.md",
+    "Web Development/HTTP.md",
     "Web Development/Axios.md",
     "Web Development/Decorator.md",
     "Web Development/CSS.md",
@@ -190,12 +191,7 @@
     "Web Development/Banco de Dados.md",
     "Web Development/Java.md",
     "Web Development/IoT.md",
-    "Web Development/HTTP.md",
     "Web Development/HTML.md",
-    "Web Development/Heroku.md",
-    "Web Development/GUIs.md",
-    "Web Development/Gulp.md",
-    "Web Development/Go.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",

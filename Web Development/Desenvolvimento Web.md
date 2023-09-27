@@ -34,7 +34,7 @@ JavaScript permite adicionar interatividade e dinamismo ao seu site.
 
 Aprenda a usar [[Bibliotecas e Frameworks]] populares, como:
 
-- **[[ReactJS]]** para criação de interfaces de usuário dinâmicas.
+- **[[ReactJS]]**([[NextJS]]) para criação de interfaces de usuário dinâmicas.
 - **[[Angular]]** para desenvolvimento de aplicativos web robustos.
 - **[[Vue.js]]** para criar aplicativos leves e reativos.
 
