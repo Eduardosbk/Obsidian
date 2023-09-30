@@ -11,8 +11,12 @@
             "id": "1450b9bad04bf82d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/TypeScript.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web Development/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web Development/TypeScript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web Development/TypeScript.md"
+              }
             }
           }
         ],
@@ -166,6 +174,11 @@
   },
   "active": "1450b9bad04bf82d",
   "lastOpenFiles": [
+    "Jest.md",
+    "Web Development/TypeScript.md",
+    "Web Development/JavaScript.md",
+    "Web Development/HTML.md",
+    "Web Development/AWS.md",
     "Web Development/Ansible.md",
     "Web Development/Tokens.md",
     "Web Development/Desenvolvimento Web.md",
@@ -187,11 +200,6 @@
     "Web Development/C-sharp.md",
     "Web Development/Bootstrap.md",
     "Web Development/Bitbucket.md",
-    "Web Development/Bibliotecas e Frameworks.md",
-    "Web Development/Banco de Dados.md",
-    "Web Development/Java.md",
-    "Web Development/IoT.md",
-    "Web Development/HTML.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
