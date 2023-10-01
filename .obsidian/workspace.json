@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/TypeScript.md",
+                "file": "Web Development/Front-End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee4862099c0caeff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/TypeScript.md",
+                "file": "Web Development/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/TypeScript.md",
+                "file": "Web Development/JavaScript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/TypeScript.md"
+                "file": "Web Development/JavaScript.md"
               }
             }
           }
@@ -172,10 +185,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1450b9bad04bf82d",
+  "active": "ee4862099c0caeff",
   "lastOpenFiles": [
-    "Jest.md",
+    "Web Development/Front-End.md",
     "Web Development/TypeScript.md",
+    "Web Development/Node.js.md",
+    "Web Development/SQL.md",
+    "Jest.md",
     "Web Development/JavaScript.md",
     "Web Development/HTML.md",
     "Web Development/AWS.md",
@@ -197,9 +213,6 @@
     "Web Development/Cassandra.md",
     "Web Development/Cache.md",
     "Web Development/NextJS.md",
-    "Web Development/C-sharp.md",
-    "Web Development/Bootstrap.md",
-    "Web Development/Bitbucket.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",

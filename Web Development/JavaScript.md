@@ -11,9 +11,9 @@
     
 - **Objetos**: [[JavaScript]] é uma linguagem orientada a objetos. Você pode criar objetos e definir propriedades e métodos para eles. Os objetos podem ser usados para modelar dados e comportamentos.
     
-- **Manipulação do DOM**: JavaScript é amplamente usado para interagir com a estrutura do Document Object Model (DOM) em páginas da web. Isso permite que você altere dinamicamente o conteúdo e o comportamento de uma página.
+- **Manipulação do DOM**: [[JavaScript]] é amplamente usado para interagir com a estrutura do Document Object Model (DOM) em páginas da web. Isso permite que você altere dinamicamente o conteúdo e o comportamento de uma página.
     
-- **Eventos**: Você pode lidar com eventos do navegador, como cliques de mouse, teclas pressionadas e muito mais, para tornar suas páginas da web interativas.
+- **Eventos**: Você pode lidar com eventos do [[Front-End]], como cliques de mouse, teclas pressionadas e muito mais, para tornar suas páginas da web interativas.
 ### Exemplo de Aplicação Simples:
 
 Vamos criar uma aplicação [[JavaScript]] simples que exibe uma saudação personalizada com base no nome inserido pelo usuário em um campo de entrada.
@@ -50,9 +50,9 @@ Vamos criar uma aplicação [[JavaScript]] simples que exibe uma saudação pers
 
 Neste exemplo, temos uma página [[HTML]] com um campo de entrada, um botão e um parágrafo onde a saudação será exibida. Usamos JavaScript para capturar o nome digitado pelo usuário, criar uma saudação personalizada e exibi-la quando o botão é clicado.
 
-Esta é apenas uma aplicação simples para demonstrar alguns conceitos básicos de JavaScript. A partir daqui, você pode explorar [[JavaScript]] mais a fundo e criar aplicativos mais complexos e interativos.
+Esta é apenas uma aplicação simples para demonstrar alguns conceitos básicos de [[JavaScript]]. A partir daqui, você pode explorar [[JavaScript]] mais a fundo e criar aplicativos mais complexos e interativos.
 
-O ES6 é uma versão da linguagem JavaScript que trouxe muitas melhorias e recursos adicionais para tornar o código mais limpo, legível e eficiente. Aqui estão alguns dos recursos mais importantes do ES6:
+O ES6 é uma versão da linguagem [[JavaScript]] que trouxe muitas melhorias e recursos adicionais para tornar o código mais limpo, legível e eficiente. Aqui estão alguns dos recursos mais importantes do ES6:
 
 **Let e Const**: O ES6 introduziu as palavras-chave `let` e `const` para declarar variáveis. Ao contrário de `var`, que tem escopo de função, `let` e `const` têm escopo de bloco, o que significa que eles são mais precisos no controle de onde uma variável é visível e acessível. `const` é usado para declarar constantes que não podem ser reatribuídas.
 
@@ -132,4 +132,4 @@ Exemplo:
 	import { soma } from './utils';
 ```
 
-Esses são apenas alguns dos recursos introduzidos pelo ES6 para melhorar a linguagem [[JavaScript]]. Essas adições tornaram o JavaScript mais poderoso e legível, facilitando o desenvolvimento de aplicativos complexos.
+Esses são apenas alguns dos recursos introduzidos pelo ES6 para melhorar a linguagem [[JavaScript]]. Essas adições tornaram o [[JavaScript]] mais poderoso e legível, facilitando o desenvolvimento de aplicativos complexos.
