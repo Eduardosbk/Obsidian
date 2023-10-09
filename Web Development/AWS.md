@@ -2,7 +2,7 @@ Amazon Web Services ([[AWS]]) é uma plataforma de computação em nuvem da Amaz
 
 **Serviços Principais:**
 
-- **[[Computação]]:** A [[AWS]] oferece uma variedade de serviços de computação, incluindo Amazon EC2 (máquinas virtuais escaláveis), [[AWS]] (computação sem servidor), Amazon ECS (containers), e muito mais.
+- **[[Computação]]:** A [[AWS]] oferece uma variedade de serviços de computação, incluindo Amazon EC2 (máquinas virtuais escaláveis), [[AWS]] (computação sem servidor), Amazon ECS (`containers`), e muito mais.
     
 - **Armazenamento:** A [[AWS]] oferece opções de armazenamento em nuvem, como Amazon S3 (armazenamento de objetos), Amazon EBS (armazenamento de blocos), Amazon RDS ([[Banco de Dados]] relacional), Amazon [[DynamoDB]] ([[Banco de Dados]] [[NoSQL]]), entre outros.
     

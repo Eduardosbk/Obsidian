@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee4862099c0caeff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Ansible.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Ansible.md",
+                "file": "Web Development/Front-End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Ansible.md",
+                "file": "Web Development/Front-End.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Ansible.md"
+                "file": "Web Development/Front-End.md"
               }
             }
           }
@@ -185,17 +172,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "c34b13dd6fb06e07",
+  "active": "1450b9bad04bf82d",
   "lastOpenFiles": [
-    "Web Development/JavaScript.md",
+    "Web Development/AWS.md",
+    "Web Development/Ansible.md",
     "Web Development/Front-End.md",
+    "Web Development/JavaScript.md",
     "Web Development/TypeScript.md",
     "Web Development/Node.js.md",
     "Web Development/SQL.md",
     "Jest.md",
     "Web Development/HTML.md",
-    "Web Development/AWS.md",
-    "Web Development/Ansible.md",
     "Web Development/Tokens.md",
     "Web Development/Desenvolvimento Web.md",
     "Web Development/Desenvolvimento Responsivo.md",
