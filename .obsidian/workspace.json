@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6edf40e1be5686ba",
+        "id": "1a76692606df9d22",
         "type": "tabs",
         "children": [
           {
-            "id": "1450b9bad04bf82d",
+            "id": "38ff42d6ebac4238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Front-End.md",
+                "file": "Web Development/TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Front-End.md",
+                "file": "Web Development/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Front-End.md",
+                "file": "Web Development/TypeScript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Front-End.md"
+                "file": "Web Development/TypeScript.md"
               }
             }
           }
@@ -172,17 +172,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1450b9bad04bf82d",
+  "active": "38ff42d6ebac4238",
   "lastOpenFiles": [
+    "Mobile Development/Desenvolvimento de Aplicativos.md",
+    "Web Development/Angular.md",
+    "Web Development/2FA.md",
+    "Web Development/APIs.md",
+    "Web Development/HTML.md",
+    "Web Development/Front-End.md",
     "Web Development/AWS.md",
     "Web Development/Ansible.md",
-    "Web Development/Front-End.md",
     "Web Development/JavaScript.md",
     "Web Development/TypeScript.md",
     "Web Development/Node.js.md",
     "Web Development/SQL.md",
-    "Jest.md",
-    "Web Development/HTML.md",
+    "Web Development/Jest.md",
     "Web Development/Tokens.md",
     "Web Development/Desenvolvimento Web.md",
     "Web Development/Desenvolvimento Responsivo.md",
@@ -196,10 +200,6 @@
     "Web Development/CLI.md",
     "Web Development/CircleCI.md",
     "Web Development/CI & CD.md",
-    "Web Development/Chef.md",
-    "Web Development/Cassandra.md",
-    "Web Development/Cache.md",
-    "Web Development/NextJS.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
