@@ -155,7 +155,7 @@ Lembrando que o [[TypeScript]] é uma ferramenta poderosa para aumentar a qualid
 
 # Intro
 
-Faaala Dev! O objetivo dessa documentação é te ajudar a entender melhor como utilizar algumas das vantagens que o TypeScript nos dá quando adicionamos em nossos projetos. Lembrando que isso pode ser aplicado tanto no back-end quanto no front-end.
+Faaala Dev! O objetivo dessa documentação é te ajudar a entender melhor como utilizar algumas das vantagens que o [[TypeScript]] nos dá quando adicionamos em nossos projetos. Lembrando que isso pode ser aplicado tanto no [[Back-End]] quanto no [[Front-End]].
 
 Bora lá?
 
@@ -193,7 +193,7 @@ Além dessas, temos outras tipagens básicas que não muito convencionais:
 
 ## Avançado
 
-Não se deixe enganar pelo título dessa seção, avançado não significa complexo. A partir das tipagens que vimos anteriormente, podemos utilizar alguns recursos do **Typescript** para expandir as tipagens do nosso código. As mais utilizadas são:
+Não se deixe enganar pelo título dessa seção, avançado não significa complexo. A partir das tipagens que vimos anteriormente, podemos utilizar alguns recursos do **[[Typescript]]** para expandir as tipagens do nosso código. As mais utilizadas são:
 
 ### Arrays
 
@@ -206,7 +206,7 @@ const educationTeam: Array<string> = ["Vini", "Dani", "Doge", "Claudião", "Grac
 
 ### Tuples
 
-Utilizado quando queremos trabalhar com arrays que sabemos exatamente quantos elementos ele terá, mas que não serão necessariamente do mesmo tipo. Exemplo:
+Utilizado quando queremos trabalhar com `arrays` que sabemos exatamente quantos elementos ele terá, mas que não serão necessariamente do mesmo tipo. Exemplo:
 
 ```tsx
 const eitaGiovanna: [string, boolean] = ["O forninho caiu?", true]
@@ -325,7 +325,7 @@ theEnd.thanos = "I'm not inevitable" // erro
 
 ## Implementação
 
-Utilizando conceitos já comuns em linguagens tipadas como C# e Java, temos a possibilidade de reforçar que uma classe (ou uma função) atenda os critérios definidos em uma interface. Exemplo:
+Utilizando conceitos já comuns em linguagens tipadas como C# e [[Java]], temos a possibilidade de reforçar que uma classe (ou uma função) atenda os critérios definidos em uma interface. Exemplo:
 
 ```tsx
 interface BalanceInterface {
@@ -385,7 +385,7 @@ age = false; // erro
 
 # Generics
 
-Vimos diversas formas até agora de como realizar a tipagem com Typescript, até mesmo em casos mais complexos como funções e objetos. Mas e se, por exemplo, não soubermos, durante o desenvolvimento, qual tipo o argumento e o retorno de uma função devem receber? Para isso utilizamos os **Generics.** Exemplo:
+Vimos diversas formas até agora de como realizar a tipagem com [[Typescript]], até mesmo em casos mais complexos como funções e objetos. Mas e se, por exemplo, não soubermos, durante o desenvolvimento, qual tipo o argumento e o retorno de uma função devem receber? Para isso utilizamos os **Generics.** Exemplo:
 
 ```tsx
 const mibr: Array<string> = ["Fallen", "Fer", "Taco", "Kng", "Trk"];
@@ -408,7 +408,7 @@ console.log(value) // irá printar o valor "rocketseat"
 
 # Type assertions
 
-As vezes, você pode saber mais de um tipo do que o próprio Typescript, principalmente ao trabalho com tipos como `any` ou `object`. Por isso, é possível atribuir manualmente um tipo utilizando **Type assertions**. Exemplo:
+As vezes, você pode saber mais de um tipo do que o próprio [[Typescript]], principalmente ao trabalho com tipos como `any` ou `object`. Por isso, é possível atribuir manualmente um tipo utilizando **Type assertions**. Exemplo:
 
 ```tsx
 const bestDog: any = "Doge";
@@ -419,7 +419,7 @@ Onde atribuímos manualmente o tipo `string` a variável `bestDog` utilizando o 
 
 # Utility Types
 
-Muitas vezes, em uma mesma aplicação acabamos gerando interfaces que possuem muitas semelhanças mas que não são necessariamente iguais. Isso, além de causar um código mais verboso, também é mais trabalhoso e suscetível a erros. Por isso, o Typescript disponibiliza os **Utility Types**. Eles vêm com a missão de evitar esses problemas e gerar rapidamente interfaces a partir de outras pre-existentes. Nessa seção iremos falar de dois exemplos apenas, mas fique a vontade para olhar o restante [**aqui**](https://www.typescriptlang.org/docs/handbook/utility-types.html).
+Muitas vezes, em uma mesma aplicação acabamos gerando interfaces que possuem muitas semelhanças mas que não são necessariamente iguais. Isso, além de causar um código mais verboso, também é mais trabalhoso e suscetível a erros. Por isso, o [[Typescript]] disponibiliza os **Utility Types**. Eles vêm com a missão de evitar esses problemas e gerar rapidamente interfaces a partir de outras pre-existentes. Nessa seção iremos falar de dois exemplos apenas, mas fique a vontade para olhar o restante [**aqui**](https://www.typescriptlang.org/docs/handbook/utility-types.html).
 
 ## Pick<T, K>
 
@@ -463,23 +463,23 @@ const picture: Image = {
 
 # Extras
 
-Acreditamos que com o que foi passado até aqui, você tem boa uma base e fonte de consulta para realizar os seus projetos utilizando Typescript. Porém, esse é um mundo vasto e apenas com a prática e estudo você vai saber melhor do que precisa saber. Por isso, deixaremos nas seções abaixo links que podem te ajudar.
+Acreditamos que com o que foi passado até aqui, você tem boa uma base e fonte de consulta para realizar os seus projetos utilizando [[Typescript]]. Porém, esse é um mundo vasto e apenas com a prática e estudo você vai saber melhor do que precisa saber. Por isso, deixaremos nas seções abaixo links que podem te ajudar.
 
 ## DefinitelyTyped (@types)
 
-Atualmente, é cada vez mais comum utilizarmos libs que possuem a tipagem embutida no próprio pacote (por exemplo uma pasta `types` com um arquivo `index.d.ts`), como é o caso do **Knex** . Porém, ainda existem diversas libs que não possuem tipagem embutidas no próprio pacote (como é o caso do **React**). Para muitos desses casos, temos um projeto bem legal conhecido como **DefinitelyTyped** que fornece a tipagem correta da lib (é ele que fornece os famosos pacotes do npm `@types`). Segue abaixo o link do repositório do projeto no Github:
+Atualmente, é cada vez mais comum utilizarmos libs que possuem a tipagem embutida no próprio pacote (por exemplo uma pasta `types` com um arquivo `index.d.ts`), como é o caso do **Knex** . Porém, ainda existem diversas [[Bibliotecas e Frameworks]] que não possuem tipagem embutidas no próprio pacote (como é o caso do **[[ReactJS]]**). Para muitos desses casos, temos um projeto bem legal conhecido como **DefinitelyTyped** que fornece a tipagem correta da lib (é ele que fornece os famosos pacotes do npm `@types`). Segue abaixo o link do repositório do projeto no Github:
 
 [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 
 ## O que não fazer
 
-É normal ficar em dúvida do que não se deve fazer ao utilizar os recursos que o Typescript adiciona ao Javascript, principalmente se for seu primeiro contato com linguagem tipada. Por isso, deixamos abaixo um link que a própria equipe do TS disponibilizou no site oficial para auxiliar nesses casos.
+É normal ficar em dúvida do que não se deve fazer ao utilizar os recursos que o [[Typescript]] adiciona ao [[Javascript]], principalmente se for seu primeiro contato com linguagem tipada. Por isso, deixamos abaixo um link que a própria equipe do TS disponibilizou no site oficial para auxiliar nesses casos.
 
 [Function Overloads #](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
 
 ## Referências
 
-Como essa é uma documentação básica e bem voltada a prática, é inviável tratar de todas as peculiaridades do Typescript. Por isso, deixaremos abaixo links que podem te ajudar a sanar eventuais dúvidas não tratadas aqui:
+Como essa é uma documentação básica e bem voltada a prática, é inviável tratar de todas as peculiaridades do [[Typescript]]. Por isso, deixaremos abaixo links que podem te ajudar a sanar eventuais dúvidas não tratadas aqui:
 
 ### Handbook (Oficial)
 
@@ -503,6 +503,6 @@ Como essa é uma documentação básica e bem voltada a prática, é inviável t
 
 ---
 
-É isso dev, esperamos que tenha gostado dessa documentação e que entenda o poder que o TypeScript pode adicionar ao Javascript. Só não vai botar `any` em tudo hein?
+É isso dev, esperamos que tenha gostado dessa documentação e que entenda o poder que o [[TypeScript]] pode adicionar ao Javascript. Só não vai botar `any` em tudo hein?
 
 ![https://media1.tenor.com/images/f4a94a88a1a6ab785e84bf2377f7e1ee/tenor.gif?itemid=10601784](https://media1.tenor.com/images/f4a94a88a1a6ab785e84bf2377f7e1ee/tenor.gif?itemid=10601784)

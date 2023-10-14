@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a76692606df9d22",
+        "id": "f934a94e2029ad07",
         "type": "tabs",
         "children": [
           {
-            "id": "38ff42d6ebac4238",
+            "id": "fc41031cc1c55bc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/TypeScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/TypeScript.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Development/TypeScript.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,8 +164,26 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "38ff42d6ebac4238",
+  "active": "fc41031cc1c55bc7",
   "lastOpenFiles": [
+    "Web Development/Elasticsearch.md",
+    "Web Development/DynamoDB.md",
+    "Web Development/Docker.md",
+    "Web Development/DevTools.md",
+    "Web Development/CI & CD.md",
+    "Web Development/CircleCI.md",
+    "Web Development/Cache.md",
+    "Web Development/UX.md",
+    "Web Development/URLs.md",
+    "Web Development/UI.md",
+    "Web Development/TypeScript.md",
+    "Web Development/Tailwind.md",
+    "Web Development/SVN.md",
+    "Web Development/SVG.md",
+    "Web Development/Styled-components.md",
+    "Web Development/SSR (Server-Side Rendering).md",
+    "Web Development/SQL.md",
+    "Web Development/Tokens.md",
     "Mobile Development/Desenvolvimento de Aplicativos.md",
     "Web Development/Angular.md",
     "Web Development/2FA.md",
@@ -182,24 +192,6 @@
     "Web Development/Front-End.md",
     "Web Development/AWS.md",
     "Web Development/Ansible.md",
-    "Web Development/JavaScript.md",
-    "Web Development/TypeScript.md",
-    "Web Development/Node.js.md",
-    "Web Development/SQL.md",
-    "Web Development/Jest.md",
-    "Web Development/Tokens.md",
-    "Web Development/Desenvolvimento Web.md",
-    "Web Development/Desenvolvimento Responsivo.md",
-    "Web Development/HTTP.md",
-    "Web Development/Axios.md",
-    "Web Development/Decorator.md",
-    "Web Development/CSS.md",
-    "Web Development/cross-site scripting (XSS).md",
-    "Web Development/Cookie.md",
-    "Web Development/Computação.md",
-    "Web Development/CLI.md",
-    "Web Development/CircleCI.md",
-    "Web Development/CI & CD.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
