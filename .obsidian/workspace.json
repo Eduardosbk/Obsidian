@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Axios.md",
+                "file": "Web Development/Bibliotecas e Frameworks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Axios.md",
+                "file": "Web Development/Bibliotecas e Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Axios.md",
+                "file": "Web Development/Bibliotecas e Frameworks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Axios.md"
+                "file": "Web Development/Bibliotecas e Frameworks.md"
               }
             }
           }
@@ -174,6 +174,12 @@
   },
   "active": "fc41031cc1c55bc7",
   "lastOpenFiles": [
+    "Web Development/Bitbucket.md",
+    "Web Development/Banco de Dados.md",
+    "Web Development/Bamboo.md",
+    "Web Development/Back-End.md",
+    "Web Development/AWS.md",
+    "Web Development/Axios.md",
     "Web Development/Elasticsearch.md",
     "Web Development/DynamoDB.md",
     "Web Development/Docker.md",
@@ -194,12 +200,6 @@
     "Web Development/Tokens.md",
     "Mobile Development/Desenvolvimento de Aplicativos.md",
     "Web Development/Angular.md",
-    "Web Development/2FA.md",
-    "Web Development/APIs.md",
-    "Web Development/HTML.md",
-    "Web Development/Front-End.md",
-    "Web Development/AWS.md",
-    "Web Development/Ansible.md",
     "Análise de Dados",
     "Mobile Development",
     "CI",
